@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="capture_photo">Capturar foto</string>
+    <string name="go_back">Volver</string>
+    <string name="switch_camera">Cambiar cámara</string>
+</resources>

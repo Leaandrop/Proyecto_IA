@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.IA" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Personalización del tema -->
+    </style>
+
+    <style name="Theme.IA" parent="Base.Theme.IA" />
+
+    <!-- Tema para el splash screen -->
+    <style name="Theme.SplashScreen" parent="Base.Theme.IA">
+        <item name="android:windowBackground">@drawable/background_gradient</item>
+    </style>
+</resources>
